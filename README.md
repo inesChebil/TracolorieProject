@@ -13,5 +13,4 @@ The app is composed of 4 controllers:
 **The App Controller(or the initializer),where everything will meet...**
 
 #
-![Blueprint of tracolorie App](//github.com/inesChebil/TracolorieProject/blob/master/tracolorie.PNG
-      )
+![Blueprint of tracolorie App](//github.com/inesChebil/TracolorieProject/blob/master/tracolorie.PNG)
